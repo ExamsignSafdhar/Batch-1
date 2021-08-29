@@ -1,6 +1,6 @@
 # ODYSSEY : Coding Contest @ ROOT - IT Learning Centre, Trichy
 # Welcome to ODYSSEY - Round Round 2
-## Date: 26-08-2021 (Thursday)
+## Date: 29-08-2021 (Sunday)
 ## Number of Problems:  1
 ## Duration In Minutes:  10
 
